@@ -1,19 +1,16 @@
-/* Write your CSS here! */
-
 p {
     display: block;
 }
 
-/*for border and page*/
 body {
 	margin: 8px;
     display: block;
     background-color: rgb(127, 242, 255);
 	font-size: 50%;
     padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 50px;
     padding-bottom: 50px;
-    padding-left: 80px;
+    padding-left: 50px;
 }
 
 header,
@@ -33,7 +30,18 @@ header {
 }
 
 testP.funParagraph {
-    color: green;
+    color: green;     
+    font-style: italic;
+}
+
+div {
+  padding: 15px;
+  margin: auto;
+}
+
+#myHeading {
+    text-align: center;
+    color: purple;
 }
 
 h1, h2, h3 {
