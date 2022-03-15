@@ -29,7 +29,7 @@ header {
     color: red;
 }
 
-testP.funParagraph {
+#testP.funParagraph {
     color: green;     
     font-style: italic;
 }
